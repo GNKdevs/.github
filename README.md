@@ -1,1 +1,1 @@
-# .github
+# GNK Devs
